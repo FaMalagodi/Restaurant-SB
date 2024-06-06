@@ -1,4 +1,4 @@
 # Restaurant-SD
 
-A restaurant code using react next, with database, interface java and back-end
+A restaurant code using react next, html css, with database, interface java and back-end
 
